@@ -1,4 +1,5 @@
 <template>
+  Componente reutulizavel:
   <span>
   index: {{listing.id}}
   street: {{listing.street}} street number: {{listing.street_nr}}, 

@@ -1,4 +1,5 @@
 <template>
+  Pagina show:
   <div>
   <ListingAddress v-bind:listing="listing" />
   </div>
